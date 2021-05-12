@@ -2,9 +2,9 @@ Autor: Filip Rezák
 Nazov: Apex Legends banuje hráčov bez príčiny!
 Datum: 12.05.2021
 ----
-Pellentesque vel erat bibendum, cursus tellus sed, interdum metus. 
-Phasellus in mauris auctor, tincidunt dolor quis, dictum purus. 
-Curabitur molestie tortor id finibus vehicula.
+In vulputate pellentesque ipsum, a lobortis augue. 
+Sed feugiat erat in ante cursus elementum. 
+Nullam non metus gravida, tempor mi vel, vulputate lacus.
 ----
 Pellentesque finibus bibendum lacus, et blandit erat ornare in. Praesent varius arcu eu justo efficitur, nec aliquet ante ultrices. 
 Aenean lectus sem, elementum sed blandit quis, tempor id est. Vestibulum dictum erat fringilla tortor laoreet, vitae pharetra purus mattis. 
