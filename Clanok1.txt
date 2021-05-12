@@ -1,3 +1,7 @@
 Autor: Filip Rezák
 Nazov: Apex Legends banuje hráčov..
 Datum: 12.05.2021
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget augue molestie est porta facilisis nec et ex. 
+Suspendisse potenti. Donec facilisis et risus sit amet faucibus. Donec id interdum magna. 
+Duis consectetur, leo vitae varius aliquet, est est lacinia magna, ac imperdiet tellus turpis vitae purus.
