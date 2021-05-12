@@ -10,6 +10,6 @@ Pellentesque finibus bibendum lacus, et blandit erat ornare in. Praesent varius 
 Aenean lectus sem, elementum sed blandit quis, tempor id est. Vestibulum dictum erat fringilla tortor laoreet, vitae pharetra purus mattis. 
 Curabitur a mollis metus, a facilisis lorem. Aliquam lacus sem, mollis nec elit elementum, pretium tristique ligula. Mauris sit amet tempor mauris.
 ----
-Vivamus et porttitor libero. Maecenas tempus semper malesuada. 
-Donec luctus dolor id lacus venenatis, id fringilla odio auctor. Pellentesque congue metus non tempus euismod. 
-Morbi placerat lacinia urna, non efficitur justo dignissim sed.
+Donec aliquam tempor mollis. Donec lacinia accumsan sem vel convallis. 
+Sed et orci pretium, laoreet nunc sit amet, venenatis purus. Mauris ut est turpis. 
+Curabitur purus urna, semper at finibus ac, tempus eu sapien.
