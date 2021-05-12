@@ -6,6 +6,6 @@ Pellentesque vel erat bibendum, cursus tellus sed, interdum metus.
 Phasellus in mauris auctor, tincidunt dolor quis, dictum purus. 
 Curabitur molestie tortor id finibus vehicula.
 ----
-Praesent vitae suscipit nisi. Aliquam vehicula arcu nec nisi convallis elementum. 
-Etiam neque nibh, gravida quis erat fermentum, eleifend aliquet lacus. Aenean sed pellentesque erat. 
-Donec hendrerit venenatis nunc et commodo. In mattis rutrum sapien, at ultricies nulla laoreet id.
+Pellentesque finibus bibendum lacus, et blandit erat ornare in. Praesent varius arcu eu justo efficitur, nec aliquet ante ultrices. 
+Aenean lectus sem, elementum sed blandit quis, tempor id est. Vestibulum dictum erat fringilla tortor laoreet, vitae pharetra purus mattis. 
+Curabitur a mollis metus, a facilisis lorem. Aliquam lacus sem, mollis nec elit elementum, pretium tristique ligula. Mauris sit amet tempor mauris.
